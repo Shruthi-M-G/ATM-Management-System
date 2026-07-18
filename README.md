@@ -4,33 +4,51 @@ A console-based ATM Management System developed using Core Java to simulate basi
 
 ## Features
 
-- PIN Authentication (3 attempts)
+- Secure PIN Authentication (3 Attempts)
 - Balance Inquiry
 - Cash Deposit
 - Cash Withdrawal
-- Change ATM PIN
+- PIN Change
 - Mini Statement
 - Session Summary
 
-## Technologies
+## Tech Stack
 
 - Java
 - Object-Oriented Programming (OOP)
 
-## Concepts Used
+## Java Concepts Used
 
 - Classes & Objects
 - Encapsulation
-- Arrays
 - Methods
+- Arrays
 - Loops
 - Conditional Statements
 - Switch Case
 - Scanner
 
-## Future Improvements
+## Project Structure
 
-- JDBC Database Integration
-- File-based Transaction Storage
+ATM-Management-System/
+├── Main.java
+├── README.md
+└── .gitignore
+
+## How to Run
+
+```bash
+javac Main.java
+java atm.Main
+```
+
+## Future Enhancements
+
+- JDBC Integration
+- MySQL Database
 - Multiple User Accounts
+- File-based Transaction Storage
 - Java Swing GUI
+
+---
+Created by **Shruthi M G**
