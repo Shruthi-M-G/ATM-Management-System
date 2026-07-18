@@ -28,13 +28,6 @@ A console-based ATM Management System developed using Core Java to simulate basi
 - Switch Case
 - Scanner
 
-## Project Structure
-
-ATM-Management-System/
-├── Main.java
-├── README.md
-└── .gitignore
-
 ## How to Run
 
 ```bash
