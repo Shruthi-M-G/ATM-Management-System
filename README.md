@@ -1,17 +1,18 @@
 # ATM Management System
 
-A console-based ATM Management System built using Core Java to simulate basic banking operations.
+A console-based ATM Management System developed using Core Java to simulate basic banking operations.
 
 ## Features
 
-- PIN Authentication
+- PIN Authentication (3 attempts)
 - Balance Inquiry
 - Cash Deposit
 - Cash Withdrawal
-- Transaction History
-- Exit Menu
+- Change ATM PIN
+- Mini Statement
+- Session Summary
 
-## Technologies Used
+## Technologies
 
 - Java
 - Object-Oriented Programming (OOP)
@@ -25,16 +26,11 @@ A console-based ATM Management System built using Core Java to simulate basic ba
 - Loops
 - Conditional Statements
 - Switch Case
-
-## How to Run
-
-1. Clone the repository
-2. Open the project in IntelliJ IDEA or Eclipse
-3. Compile and run the Java file
+- Scanner
 
 ## Future Improvements
 
 - JDBC Database Integration
-- User Login
-- Multiple Account Support
-- GUI using Java Swing/JavaFX
+- File-based Transaction Storage
+- Multiple User Accounts
+- Java Swing GUI
